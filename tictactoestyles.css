@@ -1,0 +1,34 @@
+h1 {
+text-align:center;
+}
+
+table {
+margin: auto; 
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+/*middle-vertical elements*/
+.centre-element{
+border-left-width:1px;
+border-left-color:black;
+border-left-style:solid;
+
+border-right-width:1px;
+border-right-color:black;
+border-right-style:solid;
+}
+/*middle-horizontal elements */
+tr:nth-of-type(2) td {
+border-top-width:1px;
+border-top-color:black;
+border-top-style:solid;
+
+border-bottom-width:1px;
+border-bottom-color:black;
+border-bottom-style:solid;
+
+
+}

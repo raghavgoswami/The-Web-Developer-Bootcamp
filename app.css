@@ -1,0 +1,26 @@
+h1 {
+	color: rgba(0,200,100,0.8);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style:solid;*/
+
+	border: 2px solid rgb(255,100,80);
+}
+
+
+/*
+NEED ALL THREE BORDER PROPERTIES SET TO SEE ANYTHING:;
+width
+colour 
+style*/
+
+h4 {
+	background:rgb(255,100,80);
+}
+
+body{
+	background:pink;
+/*	background:url("https://i.pinimg.com/564x/54/fe/6f/54fe6f155f4f7a426d47d1ce5401255a.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

@@ -1,0 +1,41 @@
+body {
+	
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px; /* 0.8*window width with a max width of 700px*/
+	width: 80%;
+	margin: 20px auto; /* top&bottom left&right */
+
+	font-family:Source Sans Pro; 
+	}
+
+h2 {
+	color:#2C3E50;
+	font-weight:bold;
+	font-size:2rem;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing:0.2rem;
+}
+
+
+.quote {
+	border-left:5px solid #bdc3c7;
+	padding-left:5px;
+
+	}
+
+.post {
+margin-bottom:20px;
+}
+
+/* Gradient transparent - color - transparent */
+
+hr {
+    border: 0;
+    height: 1px; 
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
